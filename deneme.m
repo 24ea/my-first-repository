@@ -6,4 +6,8 @@ Following the instructions on the first video about Git & Github - for Rainbow P
 %% Second Part
 NowLearningToEditFile = true;
 
+%% Third part: second edit
+
+EditAgain = true;
+
 
