@@ -7,11 +7,11 @@ Following the instructions on the first video about Git & Github - for Rainbow P
 SoWhatsNext;
 
 %% Second Part
-NowLearningToEditFile = true;
+NowLearningToEditFile = false;
+LearnedtoCommitEdits = true;
 
 %% Third part: second edit
-
 EditAgain = true;
 
-What this branch will look like. My first branch
+What this branch will look like. My second, conflicting branch. 
 
